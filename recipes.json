@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Chicken Curry",
+        "description": "Chicken curry is a delicious and flavorful dish that varies widely depending on its origin and preparation method. However, a typical Indian chicken curry, which originated in the Indian subcontinent, consists of chicken stewed in an onion- and tomato-based sauce, flavored with ginger, garlic, tomato puree, chili peppers, and a variety of spices. These spices often include turmeric, cumin, coriander, cinnamon, and cardamom.",
+        "image": "uploaded_images\/1754036918_chicken.jpg"
+    },
+    {
+        "name": "Egg Curry",
+        "description": "Egg bhurji is characterized by a blend of aromatic spices and herbs, including ginger, garlic, green chilies, turmeric, coriander powder, cumin powder, and garam masala or pav bhaji masala. The specific spices used can vary by region and individual preferences, allowing for a customized flavor profile ranging from mild to intensely spicy.",
+        "image": "uploaded_images\/1754042924_egg curry.jpg"
+    },
+    {
+        "name": "Pizza",
+        "description": "Pizza is typically baked in a high-temperature oven, often wood-fired, to create a crispy crust and melted cheese. Cooking times and temperatures vary depending on the style of pizza (thin crust, thick crust, deep-dish)",
+        "image": "uploaded_images\/1754043101_pizza.jpg"
+    },
+    {
+        "name": "Paneer",
+        "description": "Paneer, or Indian cottage cheese, is a fresh, non-melting cheese integral to South Asian cuisine. It's made by curdling milk with an acidic agent like lemon juice, then pressing the curds into a block. With its firm yet spongy texture and mild flavor, paneer readily absorbs spices. It's a versatile ingredient, perfect for curries, snacks like Paneer Tikka, and even some desserts.",
+        "image": "uploaded_images\/1754043240_panner.jpg"
+    },
+    {
+        "name": "Fish",
+        "description": "Fish, as an ingredient, refers to the flesh of various aquatic animals consumed as food. It's prized for its high-quality protein and healthy fats, particularly omega-3 fatty acids essential for brain and heart health. Depending on the species, fish offer diverse flavors, textures, and nutritional profiles, ranging from lean whitefish like cod to oily fish like salmon.",
+        "image": "uploaded_images\/fishbesar.jpg"
+    },
+    {
+        "name": "Dal Makhani",
+        "description": "Dal Makhani is a rich, creamy North Indian main course made with whole black lentils (urad dal) and kidney beans (rajma). These are slow-cooked with a blend of spices, butter, and cream, creating a luxurious, hearty dish. It's often simmered for hours, enhancing its deep flavor and smooth texture, notes amazon.in. It's typically enjoyed with rice or naan bread.",
+        "image": "uploaded_images\/dal makhani 2.jpg"
+    },
+    {
+        "name": "Biryani",
+        "description": "Biryani is a fragrant, flavorful rice dish where meat (chicken, mutton, or seafood), vegetables, or paneer is layered and slow-cooked (dum cooking) with aromatic basmati rice. Key ingredients include yogurt, saffron, ginger-garlic paste, and whole spices like cardamom and cinnamon. Each layer contributes to its rich aroma and complex taste.",
+        "image": "uploaded_images\/1754043820_images_biriyani.jpg"
+    },
+    {
+        "name": "Masala Dosa",
+        "description": "Masala Dosa is a thin, crispy crepe made from a fermented batter of rice and lentils, a staple of South Indian cuisine. It's filled with a spiced potato mixture and served with coconut chutney and sambar (a flavorful lentil and vegetable stew). The dosa's crispiness and the flavorful filling create a delightful texture and taste contrast.",
+        "image": "uploaded_images\/dosha2.jpg"
+    },
+    {
+        "name": "Chana Masala",
+        "description": "Chana Masala is a hearty, vegetarian main course made from chickpeas cooked in a spicy, tangy tomato-onion gravy. Key ingredients include chickpeas, onions, tomatoes, ginger, garlic, green chilies, and a blend of spices including garam masala and amchur (dry mango powder) for tanginess.",
+        "image": "uploaded_images\/Chana Masala.jpg"
+    },
+    {
+        "name": "Tandoori Chicken",
+        "description": "Tandoori Chicken is a popular North Indian dish featuring chicken pieces marinated in yogurt and a special blend of Tandoori Masala spices. The chicken is traditionally cooked at high heat in a tandoor (clay oven), resulting in a smoky flavor and a distinctive reddish hue. It's often served with naan bread, chutneys, and lemon wedges.",
+        "image": "uploaded_images\/Tandoori-Chicken-Recipe.jpg"
+    },
+    {
+        "name": "Aloo Gobi",
+        "description": "Aloo Gobi is a popular vegetarian dry curry featuring potatoes (aloo) and cauliflower (gobi) saut\u00e9ed with aromatic Indian spices. Common spices include turmeric, cumin, coriander, and sometimes kalonji (nigella seeds) and curry leaves. It's a simple, comforting, and flavorful dish that's often served as a side or a light main course.",
+        "image": "uploaded_images\/images (1)aloo kobi.jpg"
+    }
+]

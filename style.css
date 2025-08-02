@@ -1,0 +1,155 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #454242;
+}
+
+.navhead {
+    display: flex;
+    justify-content: left;
+    gap: 30px;
+    padding: 15px ;
+}
+
+.navhead a {
+    text-decoration: none;
+    color: #fbfafa;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navhead a:hover {
+    color: #62c145;
+}
+
+main {
+    flex: 1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+}
+
+.form-container {
+    background: #d8d5d5;
+    padding: 30px 25px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 900px;   
+}
+
+.form-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+}
+
+form input[type="text"],
+form textarea,
+form input[type="file"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+form textarea {
+    resize: vertical;
+    height: 120px;
+    font-family: sans-serif;
+}
+
+form button {
+    width: 15%;
+    padding: 12px;
+    background-color: #176c04;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+.card-container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+.card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.modal {
+    display:none;
+    position: fixed;
+    z-index: 10;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(17, 17, 17, 0.6);
+}
+.modal-content {
+    background: white;
+    margin: 5% auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 40%;
+    position: relative;
+    max-height: 80vh; 
+    overflow-y: auto;
+}
+
+.modal-content img {
+    width: 100%;
+    height: auto;
+}
+.close {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 25px;
+}
+.readmore_btn{
+    cursor:pointer;
+    border: none;
+    background-color: transparent;
+}
+
+
+
+footer {
+    background-color: #454242;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    color: #faf9f9;
+    font-size: 16px;
+}
