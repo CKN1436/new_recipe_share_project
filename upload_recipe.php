@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $existing[] = $data;
         file_put_contents($jsonFile, json_encode($existing, JSON_PRETTY_PRINT));
         echo "<script> 
-        alert('Recipe Uploaded Successfully'); 
+        alert('Recipe Uploaded Successfully!'); 
        location.href = 'index.php';
         </script>";
     } else {
